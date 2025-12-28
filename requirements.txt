@@ -1,0 +1,3 @@
+# Mini Compiler Dependencies
+# Python ANTLR4 runtime for parser generation
+antlr4-python3-runtime==4.13.2

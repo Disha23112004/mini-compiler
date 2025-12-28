@@ -1,0 +1,13 @@
+fun main() int {
+   int numNodes;
+   
+   numNodes = read;
+   
+   if (numNodes <= 0) {
+      print -1 endl;
+      return -1;
+   }
+   
+   print numNodes endl;
+   return 0;
+}

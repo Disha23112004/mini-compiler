@@ -1,0 +1,17 @@
+fun helper(int x) int {
+   return x + 1;
+}
+
+fun main() int {
+   int numNodes;
+   
+   numNodes = read;
+   
+   if (numNodes <= 0) {
+      print -1 endl;
+      return -1;
+   }
+   
+   print helper(numNodes) endl;
+   return 0;
+}
